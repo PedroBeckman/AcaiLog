@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Opa galera! Bem-vindos ao projeto EcoCaroço 🌱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse é um projeto que desenvolvemos com foco em sustentabilidade, logística inteligente e reaproveitamento de resíduos do açaí.
 
-## Available Scripts
+A ideia surgiu a partir de um problema muito comum na nossa região: o descarte irregular do caroço de açaí. Apesar de ser um resíduo extremamente abundante, muitas vezes ele acaba sendo descartado de forma inadequada, causando impactos ambientais e desperdício de material que poderia ser reutilizado industrialmente.
 
-In the project directory, you can run:
+Pensando nisso, criamos o EcoCaroço, um aplicativo web/mobile que conecta batedores de açaí, coletores e centros de distribuição em uma plataforma moderna e funcional.
+### O objetivo do sistema é facilitar:
+* solicitação de coleta,
+* gerenciamento logístico,
+* rastreamento em tempo real,
+* controle operacional,
+* reaproveitamento sustentável do caroço de açaí.
+---------------
 
-### `npm start`
+#### O projeto foi desenvolvido pensando em uma estrutura real de startup, utilizando tecnologias modernas e arquitetura escalável para futuras expansões.
+------------
+### O que o projeto faz
+* Permite solicitar coleta de caroço de açaí
+* Exibe localização em tempo real utilizando GPS e Google Maps
+* Faz gerenciamento das coletas e rotas
+* Possui autenticação de usuários
+* Permite diferentes tipos de acesso:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  * Gerador
+  * Coletor
+  * Centro de Distribuição
+  * Administrador
+* Possui dashboard com métricas e analytics
+* Utiliza armazenamento em nuvem
+* Estrutura preparada para expansão futura
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#### Além da proposta acadêmica, o EcoCaroço busca mostrar como a tecnologia pode ser utilizada para resolver problemas ambientais reais, incentivando:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* sustentabilidade,
+* economia circular,
+* logística reversa,
+* inovação na Amazônia.
 
-### `npm run build`
+### FUTUROS UPDATES
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* IA para otimização logística
+* Previsão de demanda
+* Dashboard avançado
+* Aplicativo publicado oficialmente
+* Integração com indústrias parceiras
