@@ -461,8 +461,8 @@ export default function AcaiLogApp() {
           <div style={{ flex: 1, display: "flex", flexDirection: "column", justifyContent: "center", paddingTop: 60 }}>
             {/* Logo */}
             <div style={{ textAlign: "center", marginBottom: 44 }}>
-              <div style={{ fontSize: 56, marginBottom: 12 }}>🫘</div>
-              <h1 style={{ fontSize: 34, fontWeight: 800, background: "linear-gradient(135deg, #C25A1C, #f59e0b)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", marginBottom: 6 }}>AçaíLog</h1>
+              <div style={{ fontSize: 56, marginBottom: 12 }}>♻️</div>
+              <h1 style={{ fontSize: 34, fontWeight: 800, background: "linear-gradient(135deg, #C25A1C, #f59e0b)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", marginBottom: 6 }}>EcoCaroço</h1>
               <p style={{ color: "var(--t3)", fontSize: 13 }}>Logística de caroços · Economia circular</p>
             </div>
 
